@@ -31,4 +31,3 @@ Dataset link: https://www.kaggle.com/datasets/divyansh22/dummy-astronomy-data
 - **PyTorch** — for CNN model and inference
 - **Streamlit** — for interactive web UI
 - **Pillow / torchvision** — for image preprocessing and transforms
-- **Git / GitHub** — version control and project showcase
