@@ -17,12 +17,12 @@ Dataset link: https://www.kaggle.com/datasets/divyansh22/dummy-astronomy-data
 ## 🔭 What it Does
 
 - Accepts a telescope image (JPEG/PNG) from the user via a web interface
-- Uses a pre-trained CNN to classify the image as either:
+- Uses a CNN trained from scratch to classify the image as either:
   - 🌟 **Star**
   - 🌌 **Galaxy**
 - Displays the predicted class and model confidence
 
-> 📝 This model is trained on a small dataset of telescope images and serves as a demo for deploying simple computer vision models.
+> 📝 This model is trained on a dataset of telescope images and serves as a demo for deploying simple computer vision models.
 
 ---
 
